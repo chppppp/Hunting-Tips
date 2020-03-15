@@ -1,4 +1,3 @@
-# Hunting-Tips
 ![Color_MAX](https://user-images.githubusercontent.com/55370554/76710262-b7dae300-670e-11ea-88e0-e1d95fc353ab.jpg)
 
 1. jwt decoder --> [jwt.io](https://jwt.io/#debugger-io) </br>
