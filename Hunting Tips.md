@@ -12,7 +12,7 @@
 
 4. If we have site reandering your input as PDF and you can import it as PDF we
    can try SSRF with something like  
-   > <ifre src="http://169.254.169.254/latest/meta-data">
+   > <iframe src="http://169.254.169.254/latest/meta-data">
 
 5. Secert path in wp sites --> /wp-content/plugins/jsmol2wp/j2s/J/rendersurface/
 
