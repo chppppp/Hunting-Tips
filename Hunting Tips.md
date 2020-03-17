@@ -99,7 +99,7 @@ DB and storage permissions.
   * //
   * https://
   * CompanyName.com
-  * Location.search
+  * Location.search 
   
 32. In url you can try those circumvents: 
   * https://expected-host@evil-host
