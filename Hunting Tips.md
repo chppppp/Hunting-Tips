@@ -17,7 +17,7 @@
 5. Secert path in wp sites --> /wp-content/plugins/jsmol2wp/j2s/J/rendersurface/
 
 6. To find the clouding service you can search in youtubbe --> (siteName + cloud)
-> verizon media  + cloud
+> verizon media  + cloud </br>
 https://www.youtube.com/results?search_query=verizon+media++%2B+cloud
 
 7. Some AWS metadata pathes:
